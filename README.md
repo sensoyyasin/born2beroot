@@ -46,5 +46,10 @@ There are three different techniques that SSH uses to encrypt:
 * Hashing: another form of cryptography used by SSH. Hash functions are made in a way that they don't need to be decrypted. If a client has the correct input, they can create a cryptographic hash and SSH will check if both hashes are the same.
 
 # What is cron and what is wall?
+
 Cron: Linux task manager that allows us to execute commands at a certain time. We can automate some tasks just by telling cron what command we want to run at a specific time. For example, if we want to restart our server every day at 4:00 am, instead of having to wake up at that time, cron will do it for us.
 Wall: command used by the root user to send a message to all users currently connected to the server. If the system administrator wants to alert about a major server change that could cause users to log out, the root user could alert them with wall.
+
+<img width="891" alt="Ekran Resmi 2022-03-15 ÖÖ 11 15 52" src="https://user-images.githubusercontent.com/73845925/158335483-804beccc-596a-47f3-97c7-441ad2076957.png">
+
+
