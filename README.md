@@ -50,7 +50,8 @@ There are three different techniques that SSH uses to encrypt:
 Cron: Linux task manager that allows us to execute commands at a certain time. We can automate some tasks just by telling cron what command we want to run at a specific time. For example, if we want to restart our server every day at 4:00 am, instead of having to wake up at that time, cron will do it for us.
 Wall: command used by the root user to send a message to all users currently connected to the server. If the system administrator wants to alert about a major server change that could cause users to log out, the root user could alert them with wall.
 
-![Ekran Resmi 2022-03-15 ÖÖ 11 21 12](https://user-images.githubusercontent.com/73845925/158335591-3f2c5339-627b-44f5-bcda-279a8680bba1.png)
+![Ekran Resmi 2022-03-15 ÖÖ 11 21 12](https://user-images.githubusercontent.com/73845925/158335591-3f2c5339-627b-44f5-bcda-279a8680bba1.png)
+<img width="1169" alt="Ekran Resmi 2022-03-15 ÖS 8 31 37" src="https://user-images.githubusercontent.com/73845925/158437214-41781b07-3e70-4f1b-8326-89afa446a238.png">
 
 
 
